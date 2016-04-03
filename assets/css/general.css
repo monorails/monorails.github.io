@@ -67,7 +67,7 @@ font-weight: 300;
 -moz-animation-duration: 4s;
 -moz-animation-iteration-count: infinite;
 -moz-animation-timing-function: ease-in-out;
-}
+} 
 
 .phone-image {
 max-width: 250px;
@@ -1158,7 +1158,7 @@ margin: 0 auto;
 		.intro-header {
 			height: 100%;
 			padding-top: 50px;
-			padding-bottom: 50px;
+			padding-bottom: 10px;
 			color: #f8f8f8;
 		    background-image: none; 
 			background-size: cover;
@@ -1167,11 +1167,11 @@ margin: 0 auto;
 		}
 		
 		h1, .h1 {
-			font-size: 50px;
+			font-size: 50em;
 		}
 		
 		h3, .h3 {
-			font-size: 20px;
+			font-size: 20em;
 		}
 		#gallery1{display:none}
 		
